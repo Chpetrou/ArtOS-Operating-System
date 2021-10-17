@@ -1,2 +1,10 @@
-# ArtOS-Operating-System
+# ArtOS
 ArtOS is an Operating System for the x86 microprocessor family.
+
+_Copyright © 2021 Chpetrou. All rights reserved._
+
+### Related resources
+  - [OSDev](https://wiki.osdev.org/Main_Page) - Community forum and wiki about building your own OS/kernel.
+  - [Writing a Simple Operating System —
+from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Lecture book about building a simple operating system from scratch.
+  - [GitHub Repositories](https://github.com/topics/operating-system) - Ideas and examples of other operating system projects.
