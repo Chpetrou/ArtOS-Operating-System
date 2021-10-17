@@ -1,5 +1,11 @@
 # ArtOS
-ArtOS is an Operating System for the x86 microprocessor family.
+ArtOS is an Operating System for the x86 microprocessor family, started for educational purposes.
+
+* Supports (_in a very basic level_) modern operating system features.
+* Has a very small C library.
+* Has three programs (_including a snake game!_).
+* Supports three languages (_Greek, English, Spanish_).
+
 
 _Copyright © 2021 Chpetrou. All rights reserved._
 
